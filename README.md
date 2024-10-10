@@ -1,7 +1,8 @@
 # iOS Cheat Decrypter
 
 ## 概要
-iOSのModMenu、Tweak系のチートでどこを改変しているのかを出力するアプリです。
+iOSのModMenu、Tweak系のチートでどこを改変しているのかを出力するアプリです。  
+[作者 @ykm_s_labo](https://x.com/ykm_s_labo)
 <br>
 <br>
 
