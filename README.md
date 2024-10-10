@@ -6,10 +6,10 @@ iOSのModMenu、Tweak系のチートでどこを改変しているのかを出�
 <br>
 
 ## インストール  
-[Release](#)から自身の環境にあったバージョンをダウンロードし、FilzaかSileo等でインストールしてください。  
-\(rootful = iphone-arm\)  
-\(rootless = iphone-arm64\)  
-\(roothide,bootstrap = iphone-arm64e\)  
+[Release](https://github.com/DFuku/iOS-Cheat-Decrypter/releases/tag/v0.0.1)から自身の環境にあったバージョンをダウンロードし、FilzaかSileo等でインストールしてください。  
+\(rootful = iphoneos-arm\)  
+\(rootless = iphoneos-arm64\)  
+\(roothide,bootstrap = iphoneos-arm64e\)  
 
 ## 使い方
 インストール後、Filzaで  
